@@ -31,6 +31,7 @@ export function UserProgressContextProvider({ children }) {
     showCart,
     hideCart,
     showCheckout,
+    hideCheckout,
   };
 
   return (
